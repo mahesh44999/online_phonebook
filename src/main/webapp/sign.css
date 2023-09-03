@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+fieldset{
+            background: linear-gradient(95deg,orange,cyan);
+            width: fit-content;
+            padding: 40px;
+            margin: 100px 100px 200px 400px;
+            font-size: 20px;
+            font-style: italic;
+        }
+        a{
+            text-decoration: none;
+            font-size: 25px;
+            padding: 10px;
+        }
+        legend{
+            font-weight: bolder;
+        }
